@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/0xroto",
   "VITE_SEO_SITE_NAME": "Roto's Exchange",
   "VITE_SEO_SITE_DESCRIPTION": "Trade here to support ya boy",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/roto-2213/",
+  "VITE_SEO_SITE_URL": "https://rotosexchange.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@0xroto",
